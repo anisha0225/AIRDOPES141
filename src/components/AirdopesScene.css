@@ -133,9 +133,9 @@
         left:50%;
         justify-content: space-between;
         align-items:flex-start;
-        top:20%;
-        bottom:10%;
-        width:70px;
+        top:5%;
+        
+        width:120px;
         
     }
   }
