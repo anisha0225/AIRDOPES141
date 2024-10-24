@@ -133,8 +133,8 @@
         left:50%;
         justify-content: space-between;
         align-items:flex-start;
-        top:50%;
-        
+        top:40%;
+        transform:translateY(-20%,-20%);
         width:210px;
         
     }
