@@ -133,8 +133,8 @@
         left:50%;
         justify-content: space-between;
         align-items:flex-start;
-        top:40%;
-        transform:translateY(-40%,-40%);
+        top:70%;
+        transform:translateY(-40%);
         width:210px;
         
     }
