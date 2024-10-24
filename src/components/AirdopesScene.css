@@ -132,10 +132,10 @@
     .color-selection{
         left:50%;
         justify-content: space-around;
-        align-items:flex-start;
+        align-items:flex-end;
         top:25%;
         bottom:15%;
-        width:90px;
+        width:50px;
         
     }
   }
