@@ -126,8 +126,8 @@
     margin-left: 60px;
 }
     .color-option {
-      width: 70px;
-      height: 70px;
+      width: 40px;
+      height: 40px;
     }
     .color-selection{
         left:50%;
@@ -135,7 +135,7 @@
         align-items:flex-start;
         top:20%;
         bottom:5%;
-        width:310px;
+        width:260px;
         
     }
   }
