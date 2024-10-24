@@ -173,10 +173,10 @@ const AirdopesScene = () => {
       <Canvas camera={{ position: [0, 0, 0], fov: 30 }} style={{ backgroundColor: 'black' }}>
         <ambientLight intensity={0.5} />
         <directionalLight position={[0, 5, 5]} intensity={2} />
-        <directionalLight position={[-5, 5, -5]} intensity={2} />
-        <directionalLight position={[2, 5, -5]} intensity={2} />
-        <directionalLight position={[2, -5, -5]} intensity={2} />
-        <directionalLight position={[5, -1, 5]} intensity={2} />
+        <directionalLight position={[-5, 5, -5]} intensity={3} />
+        <directionalLight position={[2, 5, -5]} intensity={3} />
+        <directionalLight position={[2, -5, -5]} intensity={3} />
+        <directionalLight position={[5, -1, 5]} intensity={3} />
         <directionalLight position={[10, 2, -10]} intensity={2} />
         <pointLight position={[10, 10, 10]} intensity={0.8} />
         <pointLight position={[-10, -10, 10]} intensity={0.8} color="blue" />
