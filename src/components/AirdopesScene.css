@@ -131,10 +131,10 @@
     }
     .color-selection{
         left:50%;
-        justify-content: space-around;
-        align-items:flex-end;
+        justify-content: space-between;
+        align-items:flex-start;
         top:20%;
-        bottom:25%;
+        bottom:10%;
         width:270px;
         
     }
